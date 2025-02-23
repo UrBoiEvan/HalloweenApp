@@ -1,6 +1,7 @@
 # README
 
 How to set up
+(Use linux)
 
 1. Install Ruby version 3.2.0
 2. Install rails version 8.0.1

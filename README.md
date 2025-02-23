@@ -14,7 +14,7 @@ rails -v
 Output: Rails 8.0.1  
 
 After ruby and rails is installed,  
-Install gems:
+Install gems:  
 bundle install
 
 

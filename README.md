@@ -1,24 +1,20 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+How to set up
 
-Things you may want to cover:
+1. Install Ruby version 3.2.0
+2. Install rails version 8.0.1
 
-* Ruby version
+Check versions:
+ruby -v
+ruby 3.2.0 (2022-12-25 revision a528908271) [x86_64-linux]
+rails -v
+Rails 8.0.1
 
-* System dependencies
+After ruby and rails is installed, 
+Install gems:
+bundle install
 
-* Configuration
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Launch app:
+rails s

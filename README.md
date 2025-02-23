@@ -7,9 +7,10 @@ How to set up
 
 Check versions:
 ruby -v
-ruby 3.2.0 (2022-12-25 revision a528908271) [x86_64-linux]
+Output is something like this: ruby 3.2.0 (2022-12-25 revision a528908271) [x86_64-linux]
+
 rails -v
-Rails 8.0.1
+Output: Rails 8.0.1
 
 After ruby and rails is installed, 
 Install gems:

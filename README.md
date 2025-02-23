@@ -5,7 +5,7 @@ How to set up
 1. Install Ruby version 3.2.0
 2. Install rails version 8.0.1
 
-Check versions:
+Check versions:  
 ruby -v  
 Output is something like this: ruby 3.2.0 (2022-12-25 revision a528908271) [x86_64-linux]
 
